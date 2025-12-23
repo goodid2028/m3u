@@ -1,6 +1,4 @@
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
@@ -1616,4 +1614,5 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 https://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
 
 #EXTINF:-1 group-title="港澳台",TVB J2
+
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
