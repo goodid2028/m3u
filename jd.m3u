@@ -1,82 +1,36 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="💓港澳台📶",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="💓港澳台📶",TVB无线华丽
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="💓港澳台📶",TVB无线华丽
-http://php.jdshipin.com/PLTV/iptv.php?id=huali
-#EXTINF:-1 group-title="💓港澳台📶",TVB无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="💓港澳台📶",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="💓港澳台📶",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1  tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB+.png"  group-title="💓港澳台📶",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1  tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB+.png"  group-title="💓港澳台📶",TVB Plus
-http://php.jdshipin.com/PLTV/iptv.php?id=j2
-#EXTINF:-1 group-title="💓港澳台📶",TVB千禧经典
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="💓港澳台📶",TVB千禧经典
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-#EXTINF:-1 group-title="💓港澳台📶",TVB千禧经典
-http://php.jdshipin.com/smt.php?id=Tvbclassic
-#EXTINF:-1 group-title="💓港澳台📶",TVB明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="💓港澳台📶",TVB明珠台
-http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-#EXTINF:-1 group-title="💓港澳台📶",TVB明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="💓港澳台📶",TVB娱乐新闻
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 group-title="💓港澳台📶",VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="💓港澳台📶",VIUTV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="💓港澳台📶",VIUTV
 http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 #EXTINF:-1 group-title="💓港澳台📶",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="💓港澳台📶",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="💓港澳台📶",RTHK-31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 #EXTINF:-1 group-title="💓港澳台📶",RTHK-32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="💓港澳台📶",RTHK-32
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-#EXTINF:-1 group-title="💓港澳台📶",天映
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="💓港澳台📶",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 group-title="💓港澳台📶",astro-QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="💓港澳台📶",astroAec
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="💓港澳台📶",astroAod
-http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="💓港澳台📶",astro欢喜
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="💓港澳台📶",astro爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="💓港澳台📶",astroAod
-http://php.jdshipin.com/PLTV/iptv.php?id=aod
-#EXTINF:-1 group-title="📡卫视频道",凤凰卫视
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="📡卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1 group-title="📡卫视频道",西藏卫视
+http://cdn.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 group-title="📡卫视频道",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 group-title="电影频道",1905国内电影
-http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 group-title="电影频道",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
+#EXTINF:-1 group-title="电影频道",1905国内电影
+http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 group-title="电影频道",1905电影
 http://php.jdshipin.com/1905.php?id=1905dy
 #EXTINF:-1 group-title="电影频道",1905电影
@@ -95,8 +49,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=21059598
 http://cdn.jdshipin.com:8880/huya.php?id=11342418
 #EXTINF:-1 group-title="明星",电影_洪金宝
 http://cdn.jdshipin.com:8880/huya.php?id=11279251
-#EXTINF:-1 group-title="明星",电影_强森
-http://cdn.jdshipin.com:8880/huya.php?id=21059581
 #EXTINF:-1 group-title="明星",电影_梁家辉
 http://cdn.jdshipin.com:8880/huya.php?id=11342429
 #EXTINF:-1 group-title="主题片",电影_怪兽
@@ -107,115 +59,85 @@ http://cdn.jdshipin.com:8880/huya.php?id=21059580
 http://cdn.jdshipin.com:8880/huya.php?id=21059594
 #EXTINF:-1 group-title="主题片",电影_玄幻
 http://cdn.jdshipin.com:8880/huya.php?id=11342414
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="港澳台",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+http://php.jdshipin.com:8880/iptv.php?id=fhzx
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
+http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
-http://r.jdshipin.com/GeWKr
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
-http://r.jdshipin.com/thuYX
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
-http://r.jdshipin.com/GeWKr?id=fct720
-#EXTINF:-1  tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png"  group-title="港澳台",翡翠台
 http://r.jdshipin.com/GeWKr?id=fct406
 #EXTINF:-1  tvg-name="无线华丽" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/华丽翡翠台.png"  group-title="港澳台",无线华丽
-http://php.jdshipin.com/smt.php?id=Tvbjade
+http://php.jdshipin.com/PLTV/iptv.php?id=huali
 #EXTINF:-1  tvg-name="无线华丽" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/华丽翡翠台.png"  group-title="港澳台",无线华丽
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1  tvg-name="无线华丽" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/华丽翡翠台.png"  group-title="港澳台",无线华丽
 http://php.jdshipin.com:8880/smt.php?id=Wlt
-#EXTINF:-1  tvg-name="无线功夫" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/TVB功夫.png"  group-title="港澳台",无线功夫
-http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 #EXTINF:-1 group-title="港澳台",TVB明珠
-http://php.jdshipin.com/smt.php?id=pearl_twn
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="港澳台",TVB明珠
-http://r.jdshipin.com/jUx8K
-#EXTINF:-1 group-title="港澳台",TVB明珠
-http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1 group-title="港澳台",TVB明珠
-http://r.jdshipin.com/GeWKr?id=mzt720
+http://php.jdshipin.com:8880/iptv.php?id=mzt
 #EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="港澳台",TVB星河
 http://php.jdshipin.com/smt.php?id=Xinhe
 #EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="港澳台",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="港澳台",TVB星河
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+#EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="港澳台",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="港澳台",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1  tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png"  group-title="港澳台",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 group-title="港澳台",TVB无线新闻
-http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 group-title="港澳台",TVB无线新闻
-http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="港澳台",TVB无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="港澳台",TVB无线新闻
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="港澳台",TVB千禧经典
-http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 group-title="港澳台",TVB娱乐新闻
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="港澳台",VIU
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 group-title="港澳台",VIU
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="港澳台",VIU
 http://r.jdshipin.com/vSJvl
-#EXTINF:-1 group-title="港澳台",VIU
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-#EXTINF:-1 group-title="港澳台",美亚电影
-http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-#EXTINF:-1 group-title="港澳台",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="港澳台",美亚电影
-http://php.jdshipin.com/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="港澳台",美亚电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="港澳台",美亚电影
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1  tvg-name="千禧经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/千禧经典.png"  group-title="港澳台",千禧经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="港澳台",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港澳台",TVB J2
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-#EXTINF:-1 group-title="☘️湖南频道",湖南都市
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 group-title="☘️湖南频道",湖南都市
 http://php.jdshipin.com:8880/iptv.php?id=hnds
+#EXTINF:-1 group-title="☘️湖南频道",湖南都市
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 group-title="☘️湖南频道",湖南经视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
 #EXTINF:-1 group-title="☘️湖南频道",湖南电视剧
-http://php.jdshipin.com:8880/iptv.php?id=hndsj
-#EXTINF:-1 group-title="☘️湖南频道",湖南电视剧
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+#EXTINF:-1 group-title="☘️湖南频道",湖南电视剧
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
 #EXTINF:-1 group-title="☘️湖南频道",湖南电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 #EXTINF:-1 group-title="☘️湖南频道",湖南爱晚
-http://php.jdshipin.com:8880/iptv.php?id=hngg
-#EXTINF:-1 group-title="☘️湖南频道",湖南爱晚
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
+#EXTINF:-1 group-title="☘️湖南频道",湖南爱晚
+http://php.jdshipin.com:8880/iptv.php?id=hngg
 #EXTINF:-1 group-title="☘️湖南频道",湖南娱乐
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
+#EXTINF:-1 group-title="☘️湖南频道",湖南国际
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
+#EXTINF:-1 group-title="☘️广东频道",广东珠江
+http://r.jdshipin.com/sE5vO
 #EXTINF:-1 group-title="☘️广东频道",广州综合
 http://r.jdshipin.com/snhya
 #EXTINF:-1 group-title="☘️广东频道",广州综合
 http://r.jdshipin.com/iR6Gq
 #EXTINF:-1 group-title="☘️广东频道",南国都市
 http://r.jdshipin.com/nWaZO
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 group-title="☘️湖南频道",湖南国际
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
